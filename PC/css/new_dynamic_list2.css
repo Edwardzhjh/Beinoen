@@ -1,0 +1,91 @@
+.content{
+    width: 100%;
+}
+.content_center{
+    width: 990px;
+    margin: 0 auto;
+}
+/*文字部分*/
+.text{
+    width: 100%;
+    margin:0 auto;
+    text-align: center;
+    color: #4c4948;
+}
+.life_c{
+    padding-top: 117px;
+    font-family:"Microsoft Yahei";
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+}
+.life_t{
+    margin-top: 22px;
+    font-family: "Arial";
+    font-size: 36px;
+    line-height: 33px;
+}
+.life{
+    margin-top: 22px;
+    font-family: "Myriad Pro";
+    font-size: 14px;
+    line-height: 55px;
+    letter-spacing:3px;
+    color: #bcbaba;
+}
+.line{
+    margin-top: 22px;
+    display: inline-block;
+    width: 60px;
+    height: 1px;
+    background: #666;
+}
+/*内容部分*/
+.Baby_market{
+    width: 100%;
+    margin:100px 0 60px 0;
+}
+/*one部分的内容*/
+.one_img{
+    width: 214px;
+    margin: 0 auto;
+}
+.one_page{
+    margin: 30px 0;
+    width: 960px;
+    background-color: #eeeeee;
+    padding: 15px;
+}
+.one_page>p{
+    padding: 30px;
+    margin: 0 auto;
+    border: 1px dotted #666;
+    line-height: 30px;
+}
+.one_content{
+    line-height: 30px;
+    margin:60px 0;
+}
+.one mark{
+    background-color: #eee;
+    padding: 10px;
+    font-weight: bold;
+}
+.one_content p{
+    margin: 30px 0;
+    box-sizing: border-box;
+    padding: 0 30px;
+}
+/*头部样式修改*/
+.header-list li.active a{
+    border:none;
+}
+.header-list li.active{
+    background-color: #053391;
+}
+.header-list li.active_n a{
+    border-left:none;
+}
+.header-list li.active_l a{
+    border-left: 1px solid #b32b12;
+}

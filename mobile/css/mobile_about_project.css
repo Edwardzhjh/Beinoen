@@ -1,0 +1,189 @@
+.product-series{
+    width:8.77rem;
+    margin:0 auto;
+}
+.content>div>h1{
+    font-size: 0.333rem;
+    font-family: 微软雅黑;
+    text-align: center;
+    font-weight: normal;
+    margin-top: 0.9444rem;
+}
+.content>div>h2{
+    font-size: 0.5rem;
+    font-family: Arial;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 0.2222rem;
+}
+.content>div>span{
+    display: block;
+    width:0.8772rem;
+    border-bottom: 1px solid #4c4948;
+    margin:0 auto;
+    margin-top: 0.3472rem;
+}
+.content>div>h3{
+    font-size: 0.1944rem;
+    font-family: "Swiss 721 Thin";
+    text-align: center;
+    margin-top: 0.2916rem;
+}
+.box{
+    width: 7.5rem;
+    height: 7.7083rem;
+    position: relative;
+    margin:0 auto;
+    margin-top: 0.5555rem;
+}
+.box-img{
+    width:6.7777rem;
+    position: absolute;
+    right: 0;
+    top:0;
+}
+.box-img>img{
+    width: 100%;
+}
+.box-font{
+    width:6.7638rem;
+    height:4.1527rem;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    box-sizing: border-box;
+    padding:0.5rem 0.2739rem 0.5555rem 0.4166rem;
+    background: #efefef;
+}
+.box-font>h1{
+    font-size: 0.2777rem;
+    line-height: 0.3472rem;
+}
+.box-font>h2{
+    font-size: 0.3333rem;
+    font-family: Arial;
+    font-weight: bold;
+}
+.box-font>span{
+    display: block;
+    width: 100%;
+    border-bottom: 1px solid #4c4948;
+    margin-top: 0.2777rem;
+}
+.box-font>ul>li{
+    padding-left:0.3055rem;
+    background: url("../images/yuan.png") no-repeat 0 4px;
+}
+.box-font>ul>li .p1{
+    line-height: 0.3611rem;
+    margin-top: 0.1111rem;
+    font-size: 0.25rem;
+}
+.box-font>ul>li .p2{
+    line-height: 0.3055rem;
+    font-size: 0.2222rem;
+    font-family: "Swiss 721 Thin";
+}
+.product-philosophy{
+    width: 100%;
+    padding:0 0.6111rem;
+    box-sizing: border-box;
+}
+.content>div>h4{
+    font-size: 0.25rem;
+    line-height: 0.4861rem;
+    margin-top: 0.9166rem;
+}
+.content>div>h5{
+    font-size: 0.2222rem;
+    font-family: "Swiss 721 Thin";
+    line-height:0.3055rem;
+    margin-top: 0.2777rem;
+}
+.photo-list{
+    width: 100%;
+    height:5.6944rem;
+    position: relative;
+    margin-top: 1.0416rem;
+}
+.photo-list>ul>li{
+    position: absolute;
+}
+.photo-list .l1{
+    width: 2.4444rem;
+}
+.photo-list li>img{
+    width: 100%;
+}
+.photo-list .l2{
+    width: 4.3333rem;
+    bottom: -0.0277rem;
+    left: 0.6666rem;
+}
+.photo-list .l3{
+    width: 3.4444rem;
+    left: 3.2777rem;
+    top:0.0555rem;
+}
+.photo-list .l4{
+    width: 4.3333rem;
+    left: 5rem;
+    bottom: -0.0277rem;
+}
+.photo-list .l5{
+    width: 2.4444rem;
+    top:-0.04166rem;
+    right: 0;
+}
+.photo-list .l6,.photo-list .l7{
+    width: 2.0833rem;
+    height: 2.0833rem;
+    background: url("../images/img_font1.png");
+    background-size: 100% 100%;
+    text-align: center;
+    line-height: 2.0833rem;
+    font-size: 0.25rem;
+    color: #ffffff;
+}
+.photo-list .l6{
+    left:1.8333rem;
+    top: 0.0925rem;
+}
+.photo-list .l7{
+    left:6.0925rem;
+    top: 0.0925rem;
+}
+.tech{
+    width:8.77rem;
+    margin:0 auto;
+}
+.tech-list{
+    width:8.77rem;
+    margin:0 auto;
+    margin-top: 1.0416rem;
+}
+.tech-list>ul{
+    width: 100%;
+    overflow: hidden;
+}
+.tech-list>ul>li{
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.tech-list>ul>li img{
+    width:2.8472rem;
+}
+.tech-list>ul>li .p-ch{
+    font-size: 0.25rem;
+    line-height: 0.4583rem;
+}
+.tech-list>ul>li .p-en{
+    font-size: 0.2222rem;
+    line-height: 0.3888rem;
+    font-weight: bold;
+}
+
+
+
+

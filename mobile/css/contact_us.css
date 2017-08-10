@@ -1,0 +1,111 @@
+.content>div{
+    width:100%;
+    box-sizing: border-box;
+    padding:0 0.611rem;
+    margin-top: 1.0416rem;
+}
+.content>div h1,.content>div h2,.content>div h3{
+    text-align: center;
+}
+.content>div h1{
+    font-size: 0.3333rem;
+    font-family: "微软雅黑";
+    color: #4c4948;
+    line-height: 0.5555rem;
+    font-weight: normal;
+}
+.content>div h2{
+    font-size: 0.5rem;
+    font-family: Arial;
+    color: #4c4948;
+    line-height: 0.7222rem;
+}
+.content>div span{
+    display: block;
+    width: 0.8611rem;
+    border-bottom: 1px solid #4c4948;
+    margin:0 auto;
+    margin-top: 0.2638rem;
+}
+.content>div h3{
+    font-size: 0.1944rem;
+    font-family: "Swiss 721 Thin";
+    opacity: 0.5;
+    margin-top: 0.375rem;
+}
+.content ul{
+    overflow:hidden;
+    margin-bottom:0.2778rem;
+    margin-top: 1.1111rem;
+}
+.content ul>li{
+    float: left;
+    width:3.9583rem;
+    text-align: center;
+    border-bottom:1px solid #4c4948;
+    padding-bottom:0.5556rem;
+}
+.content ul>.l1,.content ul>.l3{
+    margin-right: 0.75rem;
+}
+.circle{
+    width:1.778rem;
+    height:1.778rem;
+    margin:0 auto;
+    margin-bottom:0.277rem;
+}
+.circle img{
+    width:100%;
+}
+.content ul>li p{
+    color:#4c4948;
+    font-size:0.25rem;
+}
+.content ul>li .p1{
+    line-height: 0.4861rem;
+    font-size: 0.25rem;
+}
+.content ul>li .p2{
+    font-size:0.2778rem;
+    font-weight: bold;
+    font-family:'Arial';
+}
+.content ul>.l3,.content ul>.l4{
+    margin-top: 0.1388rem;
+}
+.content ul>li .p3{
+    font-size: 0.5rem;
+}
+.content ul>.l4{
+    padding-bottom: 0.0462rem;
+    margin-top: 0;
+}
+.saoma{
+    float:left;
+}
+.content>ul .phone,.content>ul .tiaoma{
+    height:1.833rem;
+    box-sizing: border-box;
+    padding:0.027rem 0;
+}
+.tiaoma .p1{
+    float: left;
+    padding-top:0.1rem;
+    margin-bottom:0px;
+}
+.tiaoma .sao{
+    margin-top:0.347rem;
+}
+.content>ul .phone .p1{
+    padding-top:0.4167rem;
+    line-height:0.35rem;
+}
+.content>ul .phone .p2{
+    font-size:0.5rem;
+    font-weight:bold;
+    font-family:'Arial';
+}
+.tiaoma img{
+    margin-top:0.0139rem;
+    width:1.7639rem;
+}

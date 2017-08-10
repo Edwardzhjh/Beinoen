@@ -1,0 +1,124 @@
+.content{
+    width: 100%;
+}
+.content_center{
+    width: 990px;
+    margin: 0 auto;
+}
+.comment{
+    margin-bottom: 50px;
+}
+/*文字部分*/
+.text{
+    width: 100%;
+    margin:0 auto;
+    text-align: center;
+    color: #4c4948;
+}
+.life_c{
+    padding-top: 117px;
+    font-family:"Microsoft Yahei";
+    font-size: 24px;
+    line-height: 33px;
+    letter-spacing:36px;
+    text-align: center;
+}
+.life_t{
+    margin-top: 22px;
+    font-family: "Arial";
+    font-size: 36px;
+    line-height: 33px;
+}
+.life{
+    margin-top: 22px;
+    font-family: "Myriad Pro";
+    font-size: 14px;
+    line-height: 55px;
+    letter-spacing:3px;
+    color: #bcbaba;
+}
+.line{
+    margin-top: 22px;
+    display: inline-block;
+    width: 60px;
+    height: 1px;
+    background: #666;
+}
+/*评论列表*/
+.c_content1{
+    width: 885px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.c_content1 li{
+    height: 120px;
+    margin: 20px 0px;
+}
+.c_content1 li .cc_img{
+    width: 111px;
+    height: 111px;
+    float: left;
+    border-radius: 50%;
+    border: 3px solid #c9c9c9;
+    behavior: url("../page/PIE.htc");
+}
+.c_content1 li .cc_p{
+    margin:10px 20px;
+    width: 75px;
+    float: left;
+    line-height: 28px;
+    font-size: 18px;
+    color: #4c4948;
+}
+.c_content1 li .cc_con{
+    width: 650px;
+    margin-top: 10px;
+    float: left;
+    line-height: 28px;
+}
+.c_content1 .li_height{
+    border-bottom: 1px dotted #dddddd;
+}
+.c_content1 li.li_height1{
+    height: 350px;
+}
+.c_content1 li.li_height2{
+    height: 234px;
+}
+.c_content1 li.li_height3{
+    height: 390px;
+}
+.c_content1 li .cc_img1{
+    background: url("../images/ask1.jpg") no-repeat center center;
+}
+.c_content1 li .cc_img2{
+    background: url("../images/ask2.jpg") no-repeat;
+}
+.c_content1 li .cc_img3{
+    background: url("../images/ask1.jpg") no-repeat;
+}
+.c_content1 li .cc_img4{
+    background: url("../images/ask2.jpg") no-repeat;
+}
+.c_content1 li .cc_img5{
+    background: url("../images/ask1.jpg") no-repeat;
+}
+.c_content1 li .cc_img6{
+    background: url("../images/ask2.jpg") no-repeat;
+}
+.c_content1 li .cc_img7{
+    background: url("../images/ask1.jpg") no-repeat;
+}
+.c_content1 li .cc_img8{
+    background: url("../images/ask2.jpg") no-repeat;
+}
+/*头部样式修改*/
+.header-list li.active a{
+    border:none;
+}
+.header-list li.active_n a{
+    border-left:none;
+}
+.header-list li.active_l a{
+    border-left: 1px solid #b32b12;
+}

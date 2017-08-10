@@ -1,0 +1,104 @@
+.content{
+    width: 10rem;
+}
+.product-series{
+    width:8.77rem;
+    margin:0 auto;
+}
+.product-series h1{
+    font-size: 0.333rem;
+    font-family: "Microsoft Yahei";
+    text-align: center;
+    font-weight: normal;
+    margin-top: 0.9444rem;
+}
+.product-series h2{
+    font-size: 0.5rem;
+    font-family: "Arial";
+    text-align: center;
+    font-weight: bold;
+    margin-top: 0.2222rem;
+}
+.product-series span{
+    display: block;
+    width:0.8772rem;
+    border-bottom: 1px solid #4c4948;
+    margin:0 auto;
+    margin-top: 0.3472rem;
+}
+.product-series h3{
+    font-size: 0.1944rem;
+    font-family: "Swiss 721 Thin";
+    text-align: center;
+    margin-top: 0.2916rem;
+    color: #e9e8e8;
+    letter-spacing: 0.0694rem;
+}
+/*���谮�����۲���*/
+.comment_center{
+    width: 90%;
+    margin: 0 auto;
+}
+.comment_center dl{
+    border-bottom: 1px dotted #c9c9c9;
+    margin-top: 5%;
+}
+.comment_center dt,.comment_center dd{
+    display: flex;
+    margin-bottom: 5%;
+}
+.ask_img,.asked_img{
+    border: 2px solid #dddddd;
+    display: inline-block;
+    min-width: 1.5277rem;
+    height: 1.5277rem;
+    border-radius:50% ;
+    background: url("../images/asked1.png") no-repeat center center;
+    margin-right: 3%;
+}
+.asked_img{
+    min-width: 1.5972rem;
+    height:1.5972rem;
+    background: url("../images/asked2.png") no-repeat center center;
+}
+.ask_title{
+    min-width: 1.3rem;
+    margin-right: 2.5%;
+}
+#hide_line{
+    border-bottom:1px solid transparent;
+}
+/*ҳ�Ų���*/
+.footer{
+    width: 100%;
+    height:5.8611rem;
+    background: url("../images/footer.jpg") no-repeat;
+    background-size: 100% 100%;
+    border-top: 1px solid transparent;
+}
+.footer_text{
+    width:7.5rem;
+    margin:0 auto;
+    margin-top: 2.0833rem;
+}
+.footer_text>h3{
+    font-size: 0.3222rem;
+    color: #fff;
+    text-align: left;
+    font-weight: bold;
+    line-height: 0.5555rem;
+}
+.footer_text>.footer_z{
+    font-size: 0.3055rem;
+    color: #fff;
+    text-align: left;
+    line-height: 0.4166rem;
+    margin-top:0.0694rem;
+}
+.footer_text>.footer_y{
+    font-size: 0.25rem;
+    color: #fff;
+    text-align: left;
+    line-height: 0.375rem;
+    margin-top:0.0694rem;
+}

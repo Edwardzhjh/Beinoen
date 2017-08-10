@@ -1,0 +1,244 @@
+.banner{
+    width: 100%;
+    min-width: 990px;
+}
+.banner>img{
+    width:100%;
+}
+.content{
+    width: 100%;
+    min-width: 990px;
+}
+.pro-series{
+    width: 990px;
+    margin: 0 auto;
+    text-align: center;
+    color: #4c4948;
+}
+.content>div>p{
+    font-size: 24px;
+    margin-top:117px;
+    color: #4c4948;
+}
+.content>div>h3{
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 18px;
+}
+.content>div>i{
+    border-bottom: 1px  solid #4c4948;
+    width:61px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 27px;
+}
+.content>div>span{
+    font-size: 14px;
+    font-family: "Swis721 TH BT";
+    line-height: 70px;
+    display: block;
+}
+.content>div>h2{
+    font-size: 18px;
+    font-weight: normal;
+    margin-top: 20px;
+    line-height: 36px;
+}
+.content>div>h4{
+    font-size: 14px;
+    font-weight: normal;
+    margin-bottom: 82px;
+    margin-top: 13px;
+    line-height: 24px;
+}
+.baby-content,.mother-content{
+    width: 850px;
+    height:347px;
+    position: relative;
+    padding:0 70px;
+    margin:0 auto;
+    text-align: left;
+    margin-bottom: 64px;
+}
+.baby-content>img,.mother-content>img{
+    position: absolute;
+    top:0;
+    left: 70px;
+}
+.baby-content .baby-series,.mother-content .mother-series{
+    width:390px;
+    height:259px;
+    padding:20px 36px;
+    position: absolute;
+    top:24px;
+    right:70px;
+    background: #efefef;
+}
+.san{
+    display: inline-block;
+    width: 0px;
+    height: 0px;
+    border: 18px solid #fafafa;
+    border-right-color:transparent;
+    border-top-color:transparent;
+    border-bottom-color:transparent;
+    position: absolute;
+    top: 25px;
+    left: 0;
+}
+.san1{
+    border: 18px solid #979aa5;
+    border-right-color:transparent;
+    border-top-color:transparent;
+    border-bottom-color:transparent;
+}
+.baby-series>p,.mother-series>p{
+    font-size: 18px;
+    color: #4c4948;
+}
+.baby-series>h1,.mother-series>h1{
+    font-size: 24px;
+    font-family: "Arial";
+    padding-bottom: 20px;
+}
+.baby-series>i,.mother-series>i{
+    display: block;
+    width:100%;
+    border-bottom: 1px solid #4c4948;
+    margin-bottom: 13px;
+}
+.baby-series>h2,.mother-series>h2{
+    line-height: 30px;
+    font-weight: normal;
+    font-size: 16px;
+}
+.baby-series>h3,.mother-series>h3{
+    line-height: 26px;
+    font-size: 14px;
+    font-weight: normal;
+}
+.baby-series>b{
+    display: block;
+}
+.pro-phi{
+    width: 990px;
+    margin: 0 auto;
+    text-align: center;
+    color: #4c4948;
+}
+.pro-series span,.pro-phi span{
+    font-family: "Myriad Pro";
+    font-size: 14px;
+    letter-spacing:3px;
+    color: #ddd;
+}
+.photo-list{
+    width:990px;
+    height:415px;
+    margin:0 auto;
+}
+.photo-list-inner{
+    width:874px;
+    height:415px;
+    margin:0 auto;
+    position: relative;
+}
+.photo-list-inner li{
+    position: absolute;
+}
+.photo-list-inner .l1,.photo-list-inner .l3,.photo-list-inner .l5{
+    top:0;
+}
+.photo-list-inner .l1{
+    left: 0;
+}
+.photo-list-inner .l3{
+    left: 308px;
+}
+.photo-list-inner .l5{
+    right:0;
+}
+.photo-list-inner .l2,.photo-list-inner .l4{
+    bottom:0;
+}
+.photo-list-inner .l2{
+    left: 127px;
+}
+.photo-list-inner .l4{
+    right: 128px;
+}
+.photo-list-inner .l6{
+    top: 4px;
+    left: 207px;
+}
+.photo-list-inner .l7{
+    top: 4px;
+    right: 207px;
+}
+.tech-list{
+    width:990px;
+    overflow: hidden;
+    margin:0 auto;
+}
+.tech-list li{
+    float: left;
+    box-sizing: border-box;
+    width:50%;
+    padding:0 23px 0 15px;
+    height:670px;
+}
+.tech-list .l3,.tech-list .l4{
+    padding-top: 75px;
+}
+.tech-list .tech-img{
+    width:212px;
+    height:212px;
+    margin:0 auto;
+}
+.tech-list li>p{
+    font-size: 18px;
+    font-weight: normal;
+    text-align: center;
+    line-height: 32px;
+    color: #313131;
+}
+.tech-list li>h3{
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+    line-height: 26px;
+    color: #434343;
+}
+.tech-list li>h4{
+    font-size: 16px;
+    font-weight: normal;
+    text-align: left;
+    line-height: 31px;
+    color: #313131;
+}
+.tech-list li>h5{
+    font-size: 14px;
+    font-weight: normal;
+    text-align: left;
+    line-height: 25px;
+    color: #313131;
+}
+/*头部样式修改*/
+.header-list li.active a{
+    border:none;
+}
+.header-list li.active_n a{
+    border-left:none;
+}
+.header-list li.active_l a{
+    border-left: 1px solid #b32b12;
+}
+
+
+
+
+
+
+
+

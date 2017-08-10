@@ -1,0 +1,34 @@
+body, p, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, select, span, a {
+    padding: 0;
+    margin: 0;
+    font-family:"Microsoft Yahei";
+    font-size: 16px;
+}
+a{
+    text-decoration: none;
+}
+ul,ol,li{
+    list-style: none;
+}
+.wrap{
+    min-width: 990px;
+    width: 990px;
+}
+.lf{
+    float: left;
+}
+.rt{
+    float: right;
+}
+.clear{
+    clear:both;
+}
+.b0{
+    border-width:0;
+}
+.bl0{
+    border-left-width: 0;
+}
+.br0{
+    border-right-width: 0;
+}

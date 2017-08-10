@@ -1,0 +1,187 @@
+.content{
+    width: 10rem;
+}
+.product-series{
+    width:8.77rem;
+    margin:0 auto;
+}
+.product-series h1{
+    font-size: 0.333rem;
+    font-family: "Microsoft Yahei";
+    text-align: center;
+    font-weight: normal;
+    margin-top: 0.9444rem;
+}
+.product-series h2{
+    font-size: 0.5rem;
+    font-family: "Arial";
+    text-align: center;
+    font-weight: bold;
+    margin-top: 0.2222rem;
+}
+.product-series span{
+    display: block;
+    width:0.8772rem;
+    border-bottom: 1px solid #4c4948;
+    margin:0 auto;
+    margin-top: 0.3472rem;
+}
+.product-series h3{
+    font-size: 0.1944rem;
+    font-family: "Swiss 721 Thin";
+    text-align: center;
+    margin-top: 0.2916rem;
+    color: #e9e8e8;
+    letter-spacing: 0.0694rem;
+}
+/*标签页*/
+.tab{
+    margin-top: 9%;
+}
+.tab_center{
+    width: 90%;
+    margin: 0 auto;
+}
+.tab_center li{
+    margin-bottom: 2%;
+}
+.tab_center li dl{
+    display: flex;
+}
+.tab_center li dl dt{
+    min-width: 50%;
+    min-height: 2.5rem;
+    margin-right: 3%;
+}
+.tab_center li dl dt>img{
+    max-width: 100%;
+}
+.tab_center li dl dd{
+    min-width: 47%;
+    min-height: 2.5rem;
+    color: #4c4948;
+    margin-right: 3%;
+    margin-top: 3%;
+}
+.tab_center li dl dd p{
+    font-size: 0.25rem;
+    line-height: 0.3333rem;
+}
+.tab_center li dl dd p>a{
+    color: #4c4948;
+}
+.tab_center li dl dd span{
+    font-size: 0.2222rem;
+    line-height: 0.4583rem;
+}
+/*加载更多*/
+.more{
+    text-align: center;
+    margin-top: 5%;
+}
+.more_center{
+    max-width: 20%;
+    color: #4c4948;
+    text-align: center;
+    cursor: pointer;
+}
+/*�����б�*/
+.comment_center{
+    width: 90%;
+    margin: 0 auto;
+}
+.comment_center dl{
+    margin-top: 5%;
+}
+.comment_center dd{
+    display: flex;
+    margin-bottom: 5%;
+}
+.asked_img{
+    border: 2px solid #dddddd;
+    display: inline-block;
+    min-width: 1.5276rem;
+    height: 1.5276rem;
+    border-radius:50% ;
+}
+.asked_img0{
+    background: url("../images/newList1.png") no-repeat center center;
+}
+.asked_img1{
+    background: url("../images/newList2.png") no-repeat center center;
+}
+.asked_img2{
+    background: url("../images/newList3.png") no-repeat center center;
+}
+.asked_img3{
+    background: url("../images/newList4.png") no-repeat center center;
+}
+.asked_img4{
+    background: url("../images/newList5.png") no-repeat center center;
+}
+.asked_img5{
+    background: url("../images/newList6.png") no-repeat center center;
+}
+.asked_img6{
+    background: url("../images/newList7.png") no-repeat center center;
+}
+.asked_img7{
+    background: url("../images/newList8.png") no-repeat center center;
+}
+.asked_img8{
+    background: url("../images/newList9.png") no-repeat center center;
+}
+.asked_img9{
+    background: url("../images/newList10.png") no-repeat center center;
+}
+.asked_img10{
+    background: url("../images/newList11.png") no-repeat center center;
+}
+.asked_img11{
+    background: url("../images/newList12.png") no-repeat center center;
+}
+.asked_img12{
+    background: url("../images/newList13.png") no-repeat center center;
+}
+.ask_title{
+    min-width: 15%;
+    margin:0 1%;
+    line-height: 0.3888rem;
+}
+.ask_content{
+    line-height: 0.3888rem;
+}
+/*ҳ�Ų���*/
+.footer{
+    width: 100%;
+    height:5.8611rem;
+    background: url("../images/footer.jpg") no-repeat;
+    background-size: 100% 100%;
+    border-top: 1px solid transparent;
+}
+.footer_text{
+    width:7.5rem;
+    margin:0 auto;
+    margin-top: 2.0833rem;
+}
+.footer_text>h3{
+    font-size: 0.3222rem;
+    color: #fff;
+    text-align: left;
+    font-weight: bold;
+    line-height: 0.5555rem;
+}
+.footer_text>.footer_z{
+    font-size: 0.3055rem;
+    color: #fff;
+    text-align: left;
+    line-height: 0.4166rem;
+    margin-top:0.0694rem;
+}
+.footer_text>.footer_y{
+    font-size: 0.25rem;
+    color: #fff;
+    text-align: left;
+    line-height: 0.375rem;
+    margin-top:0.0694rem;
+}

@@ -1,0 +1,79 @@
+.content{
+    width: 100%;
+}
+.content_center{
+    width: 990px;
+    margin: 0 auto;
+}
+/*文字部分*/
+.text{
+    width: 100%;
+    margin:0 auto;
+    text-align: center;
+    color: #4c4948;
+}
+.life_c{
+    padding-top: 117px;
+    font-family:"Microsoft Yahei";
+    font-size: 24px;
+    line-height: 33px;
+    letter-spacing:36px;
+    text-align: center;
+}
+.life_t{
+    margin-top: 22px;
+    font-family: "Arial";
+    font-size: 36px;
+    line-height: 33px;
+}
+.life{
+    margin-top: 22px;
+    font-family: "Myriad Pro";
+    font-size: 14px;
+    line-height: 55px;
+    letter-spacing:3px;
+    color: #bcbaba;
+}
+.line{
+    margin-top: 22px;
+    display: inline-block;
+    width: 60px;
+    height: 1px;
+    background: #666;
+}
+.news{
+    overflow: hidden;
+    margin:30px 0px;
+}
+.news li{
+    border-bottom: 1px dotted #ddd;
+    overflow: hidden;
+    font-size: 16px;
+    line-height: 48px;
+}
+.news li.none{
+    border-bottom: 1px dotted transparent;
+}
+.news li>a{
+    float: left;
+    width: 80%;
+    color: #4c4948;
+}
+.news li>span{
+    width: 20%;
+    float: right;
+    text-align: right;
+}
+/*头部样式修改*/
+.header-list li.active a{
+    border:none;
+}
+.header-list li.active{
+    background-color: #053391;
+}
+.header-list li.active_n a{
+    border-left:none;
+}
+.header-list li.active_l a{
+    border-left: 1px solid #b32b12;
+}

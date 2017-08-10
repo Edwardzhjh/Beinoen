@@ -1,0 +1,120 @@
+.content{
+    width: 10rem;
+}
+.product-series{
+    padding-top: 10%;
+    background: url("../images/index_list.jpg") no-repeat;
+    background-size: cover;
+    width:8.77rem;
+    margin:0 auto;
+}
+.product-series h2{
+    font-size: 0.25rem;
+    font-family: "Microsoft Yahei";
+    text-align: center;
+    margin-top: 0.2222rem;
+}
+.product-series span{
+    display: block;
+    width:0.8772rem;
+    border-bottom: 1px solid #4c4948;
+    margin:0 auto;
+    margin-top: 0.3472rem;
+}
+.product-series h3{
+    font-size: 0.1944rem;
+    font-family: "Swiss 721 Thin";
+    text-align: center;
+    margin-top: 0.2916rem;
+    color: #717171;
+    letter-spacing: 0.04rem;
+}
+.section{
+    height: 8.8194rem;
+    background: url("../images/index_list.jpg") no-repeat;
+    background-size: cover;
+}
+/*��Ƶ���ݲ���*/
+.video{
+    width: 90%;
+    min-height: 4.67rem;
+    margin: 5% auto;
+}
+#media{
+    width: 8.48rem;
+    height: 4.652rem;
+    margin: 0 auto;
+}
+/*��֤����*/
+.certification{
+    width: 90%;
+    margin: 0 auto;
+}
+.certification_center{
+    margin: 5% auto;
+    text-align: center;
+    display: -webkit-flex;
+    display: flex;
+    justify-content:center;
+}
+.certification_center li{
+    padding: 0.3rem;
+    margin: 0 3%;
+    color: #4c4948;
+}
+/*ͼƬ*/
+.font_img{
+    display: inline-block;
+    padding-bottom: 10%;
+}
+.font_img img{
+    max-width: 100%;
+    vertical-align: text-bottom;
+}
+.font_img2 img{
+    margin-top: 0.3125rem;
+}
+/*����*/
+.font_t{
+    font-size: 0.3055rem;
+    line-height: 0.4583rem;
+}
+.font_y{
+    font-size: 0.2222rem;
+    line-height: 0.4583rem;
+    font-family: "Arial";
+}
+/*ҳ�Ų���*/
+.footer{
+    width: 100%;
+    height:5.8611rem;
+    background: url("../images/footer.jpg") no-repeat;
+    background-size: 100% 100%;
+    border-top: 1px solid transparent;
+}
+.footer_text{
+    width:7.5rem;
+    margin:0 auto;
+    margin-top: 2.0833rem;
+}
+.footer_text>h3{
+    font-size: 0.3222rem;
+    color: #fff;
+    text-align: left;
+    font-weight: bold;
+    line-height: 0.5555rem;
+}
+.footer_text>.footer_z{
+    font-size: 0.3055rem;
+    color: #fff;
+    text-align: left;
+    line-height: 0.4166rem;
+    margin-top:0.0694rem;
+}
+.footer_text>.footer_y{
+    font-size: 0.25rem;
+    color: #fff;
+    text-align: left;
+    line-height: 0.375rem;
+    margin-top:0.0694rem;
+}

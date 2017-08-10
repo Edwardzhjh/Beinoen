@@ -1,0 +1,171 @@
+.content{
+    width: 100%;
+}
+.content_center{
+    width: 990px;
+    margin: 0 auto;
+}
+/*文字部分*/
+.text{
+    width: 100%;
+    margin:0 auto;
+    text-align: center;
+    color: #4c4948;
+}
+.life_c{
+    padding-top: 117px;
+    font-family:"Microsoft Yahei";
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+}
+.life_t{
+    margin-top: 22px;
+    font-family: "Arial";
+    font-size: 36px;
+    line-height: 33px;
+}
+.life{
+    margin-top: 22px;
+    font-family: "Myriad Pro";
+    font-size: 14px;
+    line-height: 55px;
+    letter-spacing:3px;
+    color: #bcbaba;
+}
+.line{
+    margin-top: 22px;
+    display: inline-block;
+    width: 60px;
+    height: 1px;
+    background: #666;
+}
+/*内容部分*/
+.four_u{
+    width: 100%;
+    margin-top: 100px;
+}
+/*one部分的内容*/
+.one_img{
+    width: 214px;
+    margin: 0 auto;
+}
+.one_page{
+    margin: 30px 0;
+    width: 960px;
+    background-color: #eeeeee;
+    padding: 15px;
+}
+.one_page>p{
+    padding: 30px;
+    margin: 0 auto;
+    border: 1px dotted #666;
+    line-height: 30px;
+}
+/*two部分的内容*/
+.two{
+    overflow: hidden;
+    margin-top: 60px;
+}
+.two>p{
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+.two dl{
+    margin-bottom: 60px;
+    overflow: hidden;
+}
+.two>dl>dt{
+    float: left;
+}
+.two h3{
+    height: 30px;
+    line-height: 30px;
+}
+.ico_img{
+    margin-left: 70px;
+}
+.list_title{
+    height: 24px;
+    display: inline-block;
+}
+.two>dl>dt>p{
+    margin-top: 30px;
+}
+.list_start{
+    color: transparent;
+    margin-left: 10px;
+    width: 75px;
+    height: 24px;
+    display: inline-block;
+    background: url("../images/start_pc.png") repeat-x;
+}
+.list_start2{
+    width: 100px;
+}
+.two>dl>dd{
+    box-sizing: border-box;
+    padding: 50px 30px 50px 75px;
+    width: 618px;
+    height: 360px;
+    line-height: 30px;
+    float: right;
+    background: url("../images/bg01.png") no-repeat;
+}
+.two>dl>dd>p{
+    margin-bottom: 30px;
+}
+/*three部分*/
+.three>p{
+    line-height: 30px;
+}
+.three_img{
+    width: 715px;
+    height: 346px;
+    margin: 30px auto;
+}
+/*four部分*/
+.four h3{
+    line-height: 30px;
+    margin-bottom: 5px;
+}
+.four>p{
+    line-height: 30px;
+}
+.four>.four_img{
+    width: 600px;
+    height: 340px;
+    margin: 50px auto;
+}
+/*five部分*/
+.five{
+    margin-bottom: 60px;
+}
+.five p{
+    line-height: 30px;
+    margin: 30px 0;
+}
+.five_text{
+    overflow: hidden;
+    margin: 60px 0;
+}
+.five_text>div{
+    float: left;
+    margin-left: 40px;
+}
+.five_text h3{
+    float: left;
+}
+/*头部样式修改*/
+.header-list li.active a{
+    border:none;
+}
+.header-list li.active{
+    background-color: #053391;
+}
+.header-list li.active_n a{
+    border-left:none;
+}
+.header-list li.active_l a{
+    border-left: 1px solid #b32b12;
+}
